@@ -46,4 +46,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Live Demo
-Please use this link [here]("https://khoi-tesla-clone.netlify.app/") to view.
+Please use this link to view:
+Click [here]("https://khoi-tesla-clone.netlify.app/")
