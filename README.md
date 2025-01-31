@@ -47,4 +47,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Live Demo
 Please use this link to view:
-Click [here]("https://khoi-tesla-clone.netlify.app/")
+
+Click [here](https://khoi-tesla-clone.netlify.app/)
